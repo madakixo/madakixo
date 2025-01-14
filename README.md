@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @madakixo
-- 👀 I’m interested in learning, Python 3.8 and Django and also how to make apps in Django.
-- 🌱 I’m currently learning Django rest framework 
-- 💞️ I’m looking to collaborate on a project for cost estimate of building elements from excavation to finishing
-- 📫 How to reach me ...
+- 👀 I’m interested in learning, Python 3.11.4 and Django and also how to make apps in python
+- 🌱 I’m currently learning Product Management 
+- 💞️ I’m looking to collaborate on a project reach out Jayymaddclicke@gmail.com
+- 📫 How to reach me @jamalmadaki on twitter
 
 <!---
 madakixo/madakixo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
